@@ -12,7 +12,7 @@
 	<artifactId>breakfast</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>breakfast</name>
-	<description>Demo project for Spring Boot</description>
+	<description>A breakfast ordering app</description>
 	<url/>
 	<licenses>
 		<license/>
